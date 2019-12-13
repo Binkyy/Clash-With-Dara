@@ -1,0 +1,117 @@
+.ClashWithDara{
+  font-size: 80px;
+  font-family: 'Alegreya Sans', sans-serif;
+text-align: center;
+  color:#ff1a1a;
+
+}
+nav{
+  text-align: center;
+ font-size: 42px;
+  font-family: 'Open Sans', sans-serif;
+  color:#ff1a1a; 
+}
+
+.cwd{
+  text-align: center;
+
+}
+
+#about-content {
+  display: flex;
+}
+
+#aboutnav {
+  display: flex;
+  text-align: center;
+  width: 100%;
+  font-size: 21px;
+  position: fixed;
+  bottom: 0px
+}
+#aboutParagraphOne {
+  width: 40%;
+  font-size: 27px;
+}
+
+#buffer {
+  width: 20%;
+}
+
+#aboutParagraphTwo {
+  width: 40%;
+  font-size: 27px;
+}
+
+
+#abouthome {
+  width: 34%;
+  text-align: center;
+}
+#aboutpro {
+  width: 33%;
+    text-align: center;
+}
+#aboutdecks {
+  width: 33%;
+    text-align: center;
+}
+h1{
+  font-size: 40px;
+  font-family: 'Alegreya Sans', sans-serif;
+text-align: left;
+  color:#ff1a1a;
+}
+#pros-content{
+  display: flex;
+}
+#shun{
+  width: 50%;
+  margin: 10px;
+}
+#monkees{
+  width: 50%;
+  margin: 10px;
+}
+#prosnav {
+  display: flex;
+  text-align: center;
+  width: 100%;
+  font-size: 21px;
+  position: fixed;
+  bottom: 0px}
+ 
+  #abouthome {
+  width: 34%;
+  text-align: center;
+}
+#aboutabout {
+  width: 33%;
+    text-align: center;
+}
+#aboutdecks {
+  width: 33%;
+    text-align: center;
+}
+#proshome {
+  width: 34%;
+  text-align: center;
+}
+#prosabout {
+  width: 33%;
+    text-align: center;
+}
+#prosdecks {
+  width: 33%;
+    text-align: center;
+}
+.prosp{
+font-size: 21px;
+width: 560px;
+}
+h2{
+  color: darkslateblue;
+  font-size: 26;
+  font-family: 'PT Sans', sans-serif;
+
+}
